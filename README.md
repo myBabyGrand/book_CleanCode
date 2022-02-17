@@ -16,55 +16,55 @@
  - ```졸업``` 이라고 명명하고 **수료증,뱃지,강의할인쿠폰**을 받을 수 있다.
 
 
-## 노개북 2기 "클린코드" 스케쥴
+## 노개북 2기 "CleanCode" 스케쥴
 
 ### **1 주차(2022.02.18~2022.02.25)**
 #### **금 | Assignment #01**
 - [X]    책 사셨지요?
-- [ ]  ✔️ 구매 인증 URL
+- [ ]  :heavy_check_mark: [구매 인증 URL](/TIL/20220218_01_init.md)
 #### **토 | Assignment #02**
 - [ ]  :books:  추천사 ~ 1장. 깨끗한 코드
-- [ ]  ✔️ TIL
+- [ ]  :heavy_check_mark: TIL
 #### **일 | Assignment #03**
 - [ ]  :books:  2장. 의미있는 이름
-- [ ]  ✔️ TIL
+- [ ]  :heavy_check_mark: TIL
 #### **월 | Assignment #04**
 - [ ]  :books:  복습
-- [ ]  ✔️ 미션 Mission (1)
+- [ ]  :heavy_check_mark: 미션 Mission (1)
 #### **화, 수 | Assignment #05**
 - [ ]  :books:  3장. 함수
-- [ ]  ✔️ TIL
+- [ ]  :heavy_check_mark: TIL
 #### **목, 금 | Assignment #06**
 - [ ]  :books:  4장. 주석
-- [ ]  ✔️ TIL
+- [ ]  :heavy_check_mark:TIL
 ----------
 ### **2 주차(2022.02.26~2022.03.04)**
 #### **토, 일 | Assignment #07**
 - [ ]  :books:  복습
-- [ ]  ✔️ 미션 Mission (2)
+- [ ]  :heavy_check_mark: 미션 Mission (2)
 #### **월 | Assignment #08**
 - [ ]  :books: 5장. 형식 맞추기
-- [ ]  ✔️ TIL
+- [ ]  :heavy_check_mark: TIL
 #### **화 | Assignment #09**
 - [ ]  :books:  6장. 객체와 자료구조
-- [ ]  ✔️ TIL
+- [ ]  :heavy_check_mark: TIL
 #### **수 | Assignment #10**
 - [ ]  :books:  복습
-- [ ]  ✔️ 퀴즈 Quiz (1)
+- [ ]  :heavy_check_mark: 퀴즈 Quiz (1)
 #### **목 ~ 금 | Assignment #11**
 - [ ]  :books:  7장. 오류처리
-- [ ]  ✔️ TIL
+- [ ]  :heavy_check_mark: TIL
 ----------
 ### **3 주차(2022.03.05~2022.03.11)**
 #### **토, 일 | Assignment #12**
 - [ ]  :books:  9장. 단위 테스트
-- [ ]  ✔️ TIL
+- [ ]  :heavy_check_mark: TIL
 #### **월 | Assignment #13**
 - [ ]  :books:  복습
-- [ ]  ✔️ 퀴즈 Quiz (2)
+- [ ]  :heavy_check_mark: 퀴즈 Quiz (2)
 #### **화, 수 | Assignment #14**
 - [ ]  :books:  10장. 클래스
-- [ ]  ✔️ TIL
+- [ ]  :heavy_check_mark: TIL
 #### **목, 금 | Assignment #15**
 - [ ]  :books: 복습
-- [ ]  ✔️ 미션 Mission (3)
+- [ ]  :heavy_check_mark: 미션 Mission (3)
