@@ -21,21 +21,21 @@
 ### **1 주차(2022.02.18~2022.02.25)**
 #### **금 | Assignment #01**
 - [X]    책 사셨지요?
-- [ ]  :heavy_check_mark: [구매 인증 URL](/TIL/20220218_01_init.md)
+- [X]  :heavy_check_mark: [구매 인증 URL(SNS 인스타그램)](https://www.instagram.com/p/CaGK2AOBby0WTLGrMyvF0LC7jYRQic_d3mL-7Q0/?utm_medium=copy_link)
 #### **토 | Assignment #02**
-- [ ]  :books:  추천사 ~ 1장. 깨끗한 코드
+- [ ]  :books:  추천사 ~ 1장. Clean Code(깨끗한 코드)
 - [ ]  :heavy_check_mark: TIL
 #### **일 | Assignment #03**
-- [ ]  :books:  2장. 의미있는 이름
+- [ ]  :books:  2장. Meaningful Names(의미있는 이름)
 - [ ]  :heavy_check_mark: TIL
 #### **월 | Assignment #04**
 - [ ]  :books:  복습
 - [ ]  :heavy_check_mark: 미션 Mission (1)
 #### **화, 수 | Assignment #05**
-- [ ]  :books:  3장. 함수
+- [ ]  :books:  3장. Functions(함수)
 - [ ]  :heavy_check_mark: TIL
 #### **목, 금 | Assignment #06**
-- [ ]  :books:  4장. 주석
+- [ ]  :books:  4장. Comments(주석)
 - [ ]  :heavy_check_mark:TIL
 ----------
 ### **2 주차(2022.02.26~2022.03.04)**
@@ -43,27 +43,27 @@
 - [ ]  :books:  복습
 - [ ]  :heavy_check_mark: 미션 Mission (2)
 #### **월 | Assignment #08**
-- [ ]  :books: 5장. 형식 맞추기
+- [ ]  :books: 5장. Formatting(형식 맞추기)
 - [ ]  :heavy_check_mark: TIL
 #### **화 | Assignment #09**
-- [ ]  :books:  6장. 객체와 자료구조
+- [ ]  :books:  6장. Objects and Data Structures(객체와 자료구조)
 - [ ]  :heavy_check_mark: TIL
 #### **수 | Assignment #10**
 - [ ]  :books:  복습
 - [ ]  :heavy_check_mark: 퀴즈 Quiz (1)
 #### **목 ~ 금 | Assignment #11**
-- [ ]  :books:  7장. 오류처리
+- [ ]  :books:  7장. Error-Handling(오류처리)
 - [ ]  :heavy_check_mark: TIL
 ----------
 ### **3 주차(2022.03.05~2022.03.11)**
 #### **토, 일 | Assignment #12**
-- [ ]  :books:  9장. 단위 테스트
+- [ ]  :books:  9장. Unit Tests(단위 테스트)
 - [ ]  :heavy_check_mark: TIL
 #### **월 | Assignment #13**
 - [ ]  :books:  복습
 - [ ]  :heavy_check_mark: 퀴즈 Quiz (2)
 #### **화, 수 | Assignment #14**
-- [ ]  :books:  10장. 클래스
+- [ ]  :books:  10장. Classes(클래스)
 - [ ]  :heavy_check_mark: TIL
 #### **목, 금 | Assignment #15**
 - [ ]  :books: 복습
