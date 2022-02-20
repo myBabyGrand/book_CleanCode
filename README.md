@@ -23,11 +23,11 @@
 - [X]    책 사셨지요?
 - [X]  :heavy_check_mark: [구매 인증 URL(SNS 인스타그램)](https://www.instagram.com/p/CaGK2AOBby0WTLGrMyvF0LC7jYRQic_d3mL-7Q0/?utm_medium=copy_link)
 #### **토 | Assignment #02**
-- [ ]  :books:  추천사 ~ 1장. Clean Code(깨끗한 코드)
-- [ ]  :heavy_check_mark: TIL
+- [X]  :books:  추천사 ~ 1장. Clean Code(깨끗한 코드)
+- [X]  :heavy_check_mark: [TIL](/TIL/20220219_02_Chapter1_CleanCode.md)
 #### **일 | Assignment #03**
-- [ ]  :books:  2장. Meaningful Names(의미있는 이름)
-- [ ]  :heavy_check_mark: TIL
+- [X]  :books:  2장. Meaningful Names(의미있는 이름)
+- [X]  :heavy_check_mark: [TIL](TIL/20220220_03_Chapter2_MeaningfulNames.md)
 #### **월 | Assignment #04**
 - [ ]  :books:  복습
 - [ ]  :heavy_check_mark: 미션 Mission (1)
