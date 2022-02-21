@@ -5,9 +5,9 @@
 ---
 > :mag_right: 오늘의 과제: 최애 TIL 을 찾아라!
  - [bami님의 TIL](https://nomadcoders.co/community/thread/2151)
-   * :label: 논문쓸떄 그렇게 못이 박히게 들었던 출처표기를 다시 깨닫게 해주심
+   * :label: 논문 쓸 때 그렇게 못이 박히게 들었던 출처표기를 다시 깨닫게 해주심
  - [Young Choi 님의 TIL](https://whyjun.github.io/books/Read-Clean-Code-in-Go-01)
-   * :computer: 그렇지 개발자는 코드로 얘기해야지. 나도 자바스터디 할땐 배운걸 코드로 표현해봤는데
+   * :computer: 그렇지 개발자는 코드로 얘기해야지. 나도 자바스터디 할 땐 배운걸 코드로 표현해봤는데
    * 코드로 구현해놓은 부분이 인상적임 
  - [아무로 님의 TIL]()
    * 네 접니다. 솔직히 markdown template도 만들어서 공유했고,
