@@ -9,7 +9,7 @@
  - [Young Choi 님의 TIL](https://whyjun.github.io/books/Read-Clean-Code-in-Go-01)
    * :computer: 그렇지 개발자는 코드로 얘기해야지. 나도 자바스터디 할 땐 배운걸 코드로 표현해봤는데
    * 코드로 구현해놓은 부분이 인상적임 
- - [아무로 님의 TIL]()
+ - [아무로 님의 TIL](/TIL/20220220_03_Chapter2_MeaningfulNames.md)
    * 네 접니다. 솔직히 markdown template도 만들어서 공유했고,
    * [의미있는 이름](/TIL/20220220_03_Chapter2_MeaningfulNames.md)에는 방문자 패턴도 찾아서 정리했고 잘했다고 봅니다. :flushed:
 
