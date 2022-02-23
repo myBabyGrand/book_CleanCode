@@ -29,11 +29,11 @@
 - [X]  :books:  2장. Meaningful Names(의미있는 이름)
 - [X]  :heavy_check_mark: [TIL](TIL/20220220_03_Chapter2_MeaningfulNames.md)
 #### **월 | Assignment #04**
-- [ ]  :books:  복습
-- [ ]  :heavy_check_mark: 미션 Mission (1)
+- [X]  :books:  복습
+- [X]  :heavy_check_mark: [미션 Mission (1)](/TIL/20220221_04_Mission1_ChoiceOtherTILs.md)
 #### **화, 수 | Assignment #05**
-- [ ]  :books:  3장. Functions(함수)
-- [ ]  :heavy_check_mark: TIL
+- [X]  :books:  3장. Functions(함수)
+- [X]  :heavy_check_mark: [TIL](TIL/20220223_05_Chapter3_Functions.md)
 #### **목, 금 | Assignment #06**
 - [ ]  :books:  4장. Comments(주석)
 - [ ]  :heavy_check_mark:TIL
