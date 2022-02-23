@@ -103,7 +103,7 @@
 >*처음부터 탁 짜내지 않는다. 그게 가능한 사람은 없으리라*
   
 > :mag_right: **궁금한 내용이 있거나, 잘 이해되지 않는 내용이 있다면 적어보세요.**
- - SOLID (출처 : https://ko.wikipedia.org/wiki/SOLID_(%EA%B0%9D%EC%B2%B4_%EC%A7%80%ED%96%A5_%EC%84%A4%EA%B3%84))
+ - SOLID (출처 : [https://ko.wikipedia.org/wiki/SOLID_(객체_지향_설계)](https://ko.wikipedia.org/wiki/SOLID_(%EA%B0%9D%EC%B2%B4_%EC%A7%80%ED%96%A5_%EC%84%A4%EA%B3%84))
  
  두문자|	약어|	개념|
  ---|---|---
