@@ -35,8 +35,8 @@
 - [X]  :books:  3장. Functions(함수)
 - [X]  :heavy_check_mark: [TIL](TIL/20220223_05_Chapter3_Functions.md)
 #### **목, 금 | Assignment #06**
-- [ ]  :books:  4장. Comments(주석)
-- [ ]  :heavy_check_mark:TIL
+- [X]  :books:  4장. Comments(주석)
+- [X]  :heavy_check_mark:[TIL](TIL/20220225_06_Chapter4_Comments.md)
 ----------
 ### **2 주차(2022.02.26~2022.03.04)**
 #### **토, 일 | Assignment #07**
