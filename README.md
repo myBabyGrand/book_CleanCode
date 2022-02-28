@@ -40,11 +40,11 @@
 ----------
 ### **2 주차(2022.02.26~2022.03.04)**
 #### **토, 일 | Assignment #07**
-- [ ]  :books:  복습
-- [ ]  :heavy_check_mark: 미션 Mission (2)
+- [X]  :books:  복습
+- [X]  :heavy_check_mark: [미션 Mission (2)](TIL/20220227_07_Mission2_CodeRefactoring.md)
 #### **월 | Assignment #08**
-- [ ]  :books: 5장. Formatting(형식 맞추기)
-- [ ]  :heavy_check_mark: TIL
+- [X]  :books: 5장. Formatting(형식 맞추기)
+- [X]  :heavy_check_mark: [TIL](TIL/20220228_08_Chapter5_Formatting.md)
 #### **화 | Assignment #09**
 - [ ]  :books:  6장. Objects and Data Structures(객체와 자료구조)
 - [ ]  :heavy_check_mark: TIL
