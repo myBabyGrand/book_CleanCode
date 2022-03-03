@@ -46,14 +46,14 @@
 - [X]  :books: 5장. Formatting(형식 맞추기)
 - [X]  :heavy_check_mark: [TIL](TIL/20220228_08_Chapter5_Formatting.md)
 #### **화 | Assignment #09**
-- [ ]  :books:  6장. Objects and Data Structures(객체와 자료구조)
-- [ ]  :heavy_check_mark: TIL
+- [X]  :books:  6장. Objects and Data Structures(객체와 자료구조)
+- [X]  :heavy_check_mark: [TIL](TIL/20220301_09_Chapter6_ObjectsAndDataStructure.md)
 #### **수 | Assignment #10**
-- [ ]  :books:  복습
-- [ ]  :heavy_check_mark: 퀴즈 Quiz (1)
+- [X]  :books:  복습
+- [X]  :heavy_check_mark: 퀴즈 Quiz (1)
 #### **목 ~ 금 | Assignment #11**
-- [ ]  :books:  7장. Error-Handling(오류처리)
-- [ ]  :heavy_check_mark: TIL
+- [X]  :books:  7장. Error-Handling(오류처리)
+- [X]  :heavy_check_mark: [TIL](TIL/20220302_11_Chapter7_ErrorHandling.md)
 ----------
 ### **3 주차(2022.03.05~2022.03.11)**
 #### **토, 일 | Assignment #12**
