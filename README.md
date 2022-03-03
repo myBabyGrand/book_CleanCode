@@ -50,10 +50,10 @@
 - [X]  :heavy_check_mark: [TIL](TIL/20220301_09_Chapter6_ObjectsAndDataStructure.md)
 #### **수 | Assignment #10**
 - [X]  :books:  복습
-- [X]  :heavy_check_mark: 퀴즈 Quiz (1)
+- [X]  :heavy_check_mark: [퀴즈 Quiz (1)](TIL/20220302_10_Quiz1.md)
 #### **목 ~ 금 | Assignment #11**
 - [X]  :books:  7장. Error-Handling(오류처리)
-- [X]  :heavy_check_mark: [TIL](TIL/20220302_11_Chapter7_ErrorHandling.md)
+- [X]  :heavy_check_mark: [TIL](TIL/20220303_11_Chapter7_ErrorHandling.md)
 ----------
 ### **3 주차(2022.03.05~2022.03.11)**
 #### **토, 일 | Assignment #12**
