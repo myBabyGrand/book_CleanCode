@@ -57,8 +57,8 @@
 ----------
 ### **3 주차(2022.03.05~2022.03.11)**
 #### **토, 일 | Assignment #12**
-- [ ]  :books:  9장. Unit Tests(단위 테스트)
-- [ ]  :heavy_check_mark: TIL
+- [X]  :books:  9장. Unit Tests(단위 테스트)
+- [X]  :heavy_check_mark: [TIL](TIL/20220306_12_Chapter9_UnitTest.md)
 #### **월 | Assignment #13**
 - [ ]  :books:  복습
 - [ ]  :heavy_check_mark: 퀴즈 Quiz (2)
