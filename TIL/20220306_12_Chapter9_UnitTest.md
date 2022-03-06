@@ -51,6 +51,7 @@
  - TEMPLATE METHOD 패턴
     * *Spring핵심원리 -고급* 강의에서 들었던 내용
     * Spring AOP 구현을 위한 점진적 개발을 하던 과정으로 공통기능(로깅)은 ```abstract```로 구현, 각 비즈니스 class에서 extends 하여 사용하였음
+    * [사용했던 tempate code(abstract class)](https://github.com/myBabyGrand/class_Spring04-SpringCoreAdvanced/blob/main/src/main/java/hello/advanced/trace/template/AbstractTemplate.java)
     * 복습겸 정리.
  - 도메인 특화 언어(Domain Specific Language, DSL)
     * [https://ko.wikipedia.org/wiki/도메인특화언어](https://ko.wikipedia.org/wiki/%EB%8F%84%EB%A9%94%EC%9D%B8_%ED%8A%B9%ED%99%94_%EC%96%B8%EC%96%B4)
