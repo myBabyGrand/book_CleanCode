@@ -60,8 +60,8 @@
 - [X]  :books:  9장. Unit Tests(단위 테스트)
 - [X]  :heavy_check_mark: [TIL](TIL/20220306_12_Chapter9_UnitTest.md)
 #### **월 | Assignment #13**
-- [ ]  :books:  복습
-- [ ]  :heavy_check_mark: 퀴즈 Quiz (2)
+- [X]  :books:  복습
+- [X]  :heavy_check_mark: [퀴즈 Quiz (2)](TIL/20220307_13_Quiz2.md)
 #### **화, 수 | Assignment #14**
 - [ ]  :books:  10장. Classes(클래스)
 - [ ]  :heavy_check_mark: TIL
