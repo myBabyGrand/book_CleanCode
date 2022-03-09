@@ -63,8 +63,8 @@
 - [X]  :books:  복습
 - [X]  :heavy_check_mark: [퀴즈 Quiz (2)](TIL/20220307_13_Quiz2.md)
 #### **화, 수 | Assignment #14**
-- [ ]  :books:  10장. Classes(클래스)
-- [ ]  :heavy_check_mark: TIL
+- [X]  :books:  10장. Classes(클래스)
+- [X]  :heavy_check_mark: [TIL](TIL/20220309_14_Chapter10_Class.md)
 #### **목, 금 | Assignment #15**
 - [ ]  :books: 복습
 - [ ]  :heavy_check_mark: 미션 Mission (3)
