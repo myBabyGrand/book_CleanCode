@@ -66,5 +66,5 @@
 - [X]  :books:  10장. Classes(클래스)
 - [X]  :heavy_check_mark: [TIL](TIL/20220309_14_Chapter10_Class.md)
 #### **목, 금 | Assignment #15**
-- [ ]  :books: 복습
-- [ ]  :heavy_check_mark: 미션 Mission (3)
+- [X]  :books: 복습
+- [X]  :heavy_check_mark: [미션 Mission (3)](TIL/20220311_15_Mission3_CodeRefactoring2.md)
